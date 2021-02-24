@@ -1,0 +1,10 @@
+{
+    "name": "codemoxie/hexlet-php",
+    "authors": [
+        {
+            "name": "e.pazukhina",
+            "email": "enpazukhina@gmail.com"
+        }
+    ],
+    "require": {}
+}
